@@ -6,7 +6,7 @@ set count=0
     git pull
     git add .
     :: Currently the commit message is edit you can change this!
-    git commit -m "edit-%count%"
+    git commit -m "edit"
     git push
     echo Completed loop: %count%
     echo restarting
