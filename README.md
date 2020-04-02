@@ -7,7 +7,7 @@ Yes, it will also pull for you!
 
 ## Customise
 
-cd "path" : :: replace path with your folder path/ If you are placing this file inside local repository folder, remove this line completely
+cd "path" : replace path with your folder path/ If you are placing this file inside local repository folder, remove this line completely
 <br />
 <br />
 "edit-%count%" : Currently the commit message is edit-number you can change this!
