@@ -5,10 +5,11 @@ set count=0
     set /a count=%count%+1
     git pull
     git add .
-    :: Currently the commit message is edit-number you can change this!
+    :: Currently the commit message is edit you can change this!
     git commit -m "edit-%count%"
     git push
-    echo Completed %count%, restarting
+    echo Completed loop: %count%
+    echo restarting
     ::Determines time between 2 commits, currently it is every 30 seconds, you can change this!
     TIMEOUT 10
 goto loop

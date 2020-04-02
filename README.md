@@ -1,7 +1,7 @@
 # commit-regularly
 Git commit and push
 
-An extremely simple scipt to commit every few seconds!
+An extremely simple scipt to commit every few seconds, will only commit if you have made any changes!
 Yes, it will push for you!
 Yes, it will also pull for you!
 
@@ -10,7 +10,7 @@ Yes, it will also pull for you!
 cd "path" : replace path with your folder path/ If you are placing this file inside local repository folder, remove this line completely
 <br />
 <br />
-"edit-%count%" : Currently the commit message is edit-number you can change this!
+"edit" : Currently the commit message is edit you can change this!
 <br />
 <br />
 TIMEOUT 30 : Determines time between 2 commits.
