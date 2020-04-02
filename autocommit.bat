@@ -1,4 +1,4 @@
-cd <path>
+:: <path>
 set count=0
 :loop
     set /a count=%count%+1
