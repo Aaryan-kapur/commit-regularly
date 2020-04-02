@@ -10,5 +10,5 @@ set count=0
     git push
     echo Completed %count%, restarting
     ::Determines time between 2 commits, currently it is every 30 seconds, you can change this!
-    TIMEOUT 30
+    TIMEOUT 10
 goto loop

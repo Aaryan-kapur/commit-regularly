@@ -7,9 +7,11 @@ Yes, it will also pull for you!
 
 ## Customise
 
-cd "path" : If placing the script inside the git local folder, you might remove this complete line or change path to your folder
+cd "path" : :: replace path with your folder path/ If you are placing this file inside local repository folder, remove this line completely
+<br />
 <br />
 "edit-%count%" : Currently the commit message is edit-number you can change this!
+<br />
 <br />
 TIMEOUT 30 : Determines time between 2 commits.
 
