@@ -22,6 +22,7 @@ TIMEOUT 30 : Determines time between 2 commits.
 <li>Open CMD and type autocommit (or the name of the batch file")
 <li>press enter
 <li>See the magic happen
+<li> 
 
 ## In the works
 ![Terminal](./Screenshot.png)
