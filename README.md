@@ -5,7 +5,7 @@ An extremely simple scipt to commit every few seconds!
 Yes, it will push for you!
 Yes, it will also pull for you!
 
-## Customise
+## Customize
 
 cd "path" : replace path with your folder path/ If you are placing this file inside local repository folder, remove this line completely
 <br />
