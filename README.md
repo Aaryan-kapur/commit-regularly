@@ -22,5 +22,5 @@ TIMEOUT 30 : Determines time between 2 commits.
 <li>See the magic happen
 
 ## In the works
-![Terminal](./screenshot.png)
+![Terminal](./Screenshot.png)
 
